@@ -1,0 +1,15 @@
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.deps.json
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.dll
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/ref/Triangle.dll
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.pdb
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.AssemblyReference.cache
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfoInputs.cache
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfo.cs
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.dll
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/ref/Triangle.dll
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.pdb
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.json
+/Users/petervang/Desktop/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.dev.json
+/Users/petervang/Desktop/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.genruntimeconfig.cache
